@@ -1,12 +1,12 @@
 
 {
     "manifest_version": 2,
-    "name": "Input Logger",
+    "name": "DiscordLogger",
     "version": "1.0",
-    "description": "A simple Chrome extension to log user input to the console.",
+    "description": "...",
     "permissions": ["activeTab"],
     "browser_action": {
-      "default_title": "Input Logger",
+      "default_title": "DiscordLogger",
       "default_popup": "popup.html"
     },
     "background": {
